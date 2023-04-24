@@ -1084,3 +1084,99 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.04.24-00.56.04:439][767]LogSavePackage: Moving '../../../../../Github/Unreal/Runner/Runner/Saved/OptionsMenu_Widget9AA2323B4D3CDFBF362B0C89D99B451B.tmp' to '../../../../../Github/Unreal/Runner/Runner/Content/Main_Menu/OptionsMenu_Widget.uasset'
 [2023.04.24-00.56.04:467][768]AssetCheck: New page: Asset Save: OptionsMenu_Widget
 [2023.04.24-00.56.04:467][768]LogContentValidation: Display: Validating WidgetBlueprint /Game/Main_Menu/OptionsMenu_Widget.OptionsMenu_Widget
+[2023.04.24-00.56.51:638][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main_Menu_Level" FILE="../../../../../Github/Unreal/Runner/Runner/Content/Levels/Main_Menu_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.24-00.56.51:661][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.04.24-00.56.51:667][ 72]LogSavePackage: Moving '../../../../../Github/Unreal/Runner/Runner/Saved/Main_Menu_Level806B839A43B1C904F079CE97E30D8370.tmp' to '../../../../../Github/Unreal/Runner/Runner/Content/Levels/Main_Menu_Level.umap'
+[2023.04.24-00.56.51:694][ 72]AssetCheck: New page: Asset Save: Main_Menu_Level
+[2023.04.24-00.56.51:694][ 72]LogContentValidation: Display: Validating World /Game/Levels/Main_Menu_Level.Main_Menu_Level
+[2023.04.24-00.57.25:110][675]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2023.04.24-00.57.32:937][675]LogSlate: Window 'Delete Assets' being destroyed
+[2023.04.24-00.57.37:653][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.04.24-00.57.41:174][957]LogSlate: Window 'Delete Assets' being destroyed
+[2023.04.24-00.57.41:236][957]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/PauseMenu.PauseMenu
+[2023.04.24-00.57.41:873][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.04.24-00.57.41:898][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.04.24-00.57.41:918][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.04.24-00.57.42:946][ 19]LogTemp: Repeating last play command: Standalone Game
+[2023.04.24-00.57.42:969][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.04.24-00.58.22:552][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main_Menu_Level" FILE="../../../../../Github/Unreal/Runner/Runner/Content/Levels/Main_Menu_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.24-00.58.22:572][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.04.24-00.58.22:577][274]LogSavePackage: Moving '../../../../../Github/Unreal/Runner/Runner/Saved/Main_Menu_Level3B6A07E641C9D45952785B83EFB2EA1C.tmp' to '../../../../../Github/Unreal/Runner/Runner/Content/Levels/Main_Menu_Level.umap'
+[2023.04.24-00.58.22:598][274]AssetCheck: New page: Asset Save: Main_Menu_Level
+[2023.04.24-00.58.22:598][274]LogContentValidation: Display: Validating World /Game/Levels/Main_Menu_Level.Main_Menu_Level
+[2023.04.24-00.58.44:115][564]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.04.24-00.58.44:134][564]LogContentBrowser: Creating deferred item: NewFolder
+[2023.04.24-00.58.53:773][143]LogContentBrowser: Attempting asset rename: NewFolder -> PauseMenu
+[2023.04.24-00.58.53:774][143]LogContentBrowser: End creating deferred item NewFolder
+[2023.04.24-00.59.18:362][617]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.04.24-00.59.18:370][617]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.04.24-00.59.32:023][437]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> PauseMenuWidget
+[2023.04.24-00.59.32:026][437]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.04.24-00.59.33:706][537]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/PauseMenu/PauseMenuWidget.PauseMenuWidget
+[2023.04.24-00.59.35:368][624]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-00.59.35:368][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-00.59.35:374][624]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-00.59.35:374][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-00.59.35:877][653]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-00.59.35:877][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-00.59.35:883][653]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-00.59.35:883][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-01.04.21:171][711]LogSlate: Took 0.007781 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.04.24-01.05.31:762][942]LogSlate: Window 'Color Picker' being destroyed
+[2023.04.24-01.05.37:698][297]LogSlate: Window 'Color Picker' being destroyed
+[2023.04.24-01.07.01:903][ 77]LogSlate: Window 'Color Picker' being destroyed
+[2023.04.24-01.07.08:396][464]LogSlate: Window 'Color Picker' being destroyed
+[2023.04.24-01.07.12:324][698]LogSlate: Window 'Color Picker' being destroyed
+[2023.04.24-01.14.25:897][669]BlueprintLog: New page: Compile PauseMenuWidget
+[2023.04.24-01.14.25:947][669]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2023.04.24-01.15.24:261][156]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Specified Color entirely.
+[2023.04.24-01.21.58:328][742]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.04.24-01.21.58:345][742]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.24-01.25.58:606][131]BlueprintLog: New page: Compile PauseMenuWidget
+[2023.04.24-01.25.58:649][131]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2023.04.24-01.25.59:197][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PauseMenu/PauseMenuWidget" FILE="../../../../../Github/Unreal/Runner/Runner/Content/PauseMenu/PauseMenuWidget.uasset" SILENT=true
+[2023.04.24-01.25.59:211][162]LogSavePackage: Moving '../../../../../Github/Unreal/Runner/Runner/Saved/PauseMenuWidgetBE8D38C84BC7480E0E832D9C7343EDBE.tmp' to '../../../../../Github/Unreal/Runner/Runner/Content/PauseMenu/PauseMenuWidget.uasset'
+[2023.04.24-01.25.59:224][162]AssetCheck: New page: Asset Save: PauseMenuWidget
+[2023.04.24-01.25.59:224][162]LogContentValidation: Display: Validating WidgetBlueprint /Game/PauseMenu/PauseMenuWidget.PauseMenuWidget
+[2023.04.24-01.26.17:958][285]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/BP_NewCharacter.BP_NewCharacter
+[2023.04.24-01.26.29:221][921]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.04.24-01.27.53:211][939]LogSlate: Window 'Project Settings' being destroyed
+[2023.04.24-01.27.53:218][939]LogSlate: Window 'Project Settings' being destroyed
+[2023.04.24-01.28.44:965][ 12]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.04.24-01.28.44:980][ 12]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.24-01.34.28:234][505]BlueprintLog: New page: Compile BP_NewCharacter
+[2023.04.24-01.34.28:319][505]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2023.04.24-01.34.28:804][527]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/BP_NewCharacter" FILE="../../../../../Github/Unreal/Runner/Runner/Content/ThirdPersonBP/Blueprints/BP_NewCharacter.uasset" SILENT=true
+[2023.04.24-01.34.28:866][527]LogSavePackage: Moving '../../../../../Github/Unreal/Runner/Runner/Saved/BP_NewCharacter4C4A47E54FAFD888535B979E75E2DA40.tmp' to '../../../../../Github/Unreal/Runner/Runner/Content/ThirdPersonBP/Blueprints/BP_NewCharacter.uasset'
+[2023.04.24-01.34.28:881][527]AssetCheck: New page: Asset Save: BP_NewCharacter
+[2023.04.24-01.34.28:881][527]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/BP_NewCharacter.BP_NewCharacter
+[2023.04.24-01.34.42:366][335]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-01.34.42:366][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-01.34.44:032][432]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-01.34.44:032][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-01.34.44:038][432]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-01.34.44:038][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-01.34.57:463][235]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Main_Menu/OptionsMenu_Widget.OptionsMenu_Widget
+[2023.04.24-01.36.21:921][276]BlueprintLog: New page: Compile OptionsMenu_Widget
+[2023.04.24-01.36.21:968][276]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2023.04.24-01.36.22:805][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_Menu/OptionsMenu_Widget" FILE="../../../../../Github/Unreal/Runner/Runner/Content/Main_Menu/OptionsMenu_Widget.uasset" SILENT=true
+[2023.04.24-01.36.22:816][325]LogSavePackage: Moving '../../../../../Github/Unreal/Runner/Runner/Saved/OptionsMenu_Widget0F01691A494716482249B0B8F129506E.tmp' to '../../../../../Github/Unreal/Runner/Runner/Content/Main_Menu/OptionsMenu_Widget.uasset'
+[2023.04.24-01.36.22:828][325]AssetCheck: New page: Asset Save: OptionsMenu_Widget
+[2023.04.24-01.36.22:828][325]LogContentValidation: Display: Validating WidgetBlueprint /Game/Main_Menu/OptionsMenu_Widget.OptionsMenu_Widget
+[2023.04.24-01.36.24:338][416]LogTemp: Repeating last play command: Standalone Game
+[2023.04.24-01.36.24:381][416]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2023.04.24-01.37.07:398][685]LogTemp: Repeating last play command: Standalone Game
+[2023.04.24-01.37.07:421][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.04.24-01.38.42:430][761]LogTemp: Repeating last play command: Standalone Game
+[2023.04.24-01.38.42:454][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.04.24-01.39.27:168][723]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/PauseMenu/PauseMenuWidget.PauseMenuWidget
+[2023.04.24-01.40.40:591][112]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-01.40.40:591][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-01.40.40:596][112]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-01.40.40:596][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-01.40.41:601][171]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-01.40.41:601][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-01.40.41:605][171]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-01.40.41:605][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-01.40.49:155][622]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/BP_NewCharacter.BP_NewCharacter
