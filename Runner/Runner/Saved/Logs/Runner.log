@@ -1180,3 +1180,39 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.04.24-01.40.41:605][171]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
 [2023.04.24-01.40.41:605][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2023.04.24-01.40.49:155][622]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/BP_NewCharacter.BP_NewCharacter
+[2023.04.24-01.42.49:925][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.04.24-01.42.49:959][699]LogLinker: Warning: [AssetLog] C:\Github\Unreal\Runner\Runner\Content\Levels\Level1.umap: Failed to load '/Game/PauseMenu': Can't find file.
+[2023.04.24-01.42.49:960][699]LogLinker: Warning: [AssetLog] C:\Github\Unreal\Runner\Runner\Content\Levels\Level1.umap: Failed to load '/Game/PauseMenu': Can't find file.
+[2023.04.24-01.42.49:960][699]LogLinker: Warning: [AssetLog] C:\Github\Unreal\Runner\Runner\Content\Levels\Level1.umap: Failed to load '/Game/PauseMenu': Can't find file.
+[2023.04.24-01.42.49:961][699]LogLinker: Warning: Failed to load '/Game/PauseMenu': Can't find file.
+[2023.04.24-01.42.49:961][699]LogLinker: Warning: Failed to load '/Game/PauseMenu': Can't find file.
+[2023.04.24-01.42.49:961][699]LogLinker: Warning: Failed to load '/Game/PauseMenu': Can't find file.
+[2023.04.24-01.42.49:961][699]LogLinker: Warning: [AssetLog] C:\Github\Unreal\Runner\Runner\Content\Levels\Level1.umap: Failed to load '/Game/PauseMenu': Can't find file.
+[2023.04.24-01.42.49:961][699]LoadErrors: Failed to load /Game/PauseMenu.PauseMenu_C Referenced by K2Node_CreateWidget_0
+[2023.04.24-01.42.49:962][699]LogLinker: Warning: [AssetLog] C:\Github\Unreal\Runner\Runner\Content\Levels\Level1.umap: Failed to load '/Game/PauseMenu': Can't find file.
+[2023.04.24-01.42.49:963][699]LogBlueprint: Error: [AssetLog] C:\Github\Unreal\Runner\Runner\Content\Levels\Level1.umap: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2023.04.24-01.42.49:993][699]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level1.Level1
+[2023.04.24-01.42.49:993][699]Cmd: MAP LOAD FILE="../../../../../Github/Unreal/Runner/Runner/Content/Levels/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.24-01.42.49:993][699]LightingResults: New page: Lighting Build
+[2023.04.24-01.42.49:996][699]LoadErrors: New page: Loading map: Level1.umap
+[2023.04.24-01.42.50:037][699]LogWorld: UWorld::CleanupWorld for Main_Menu_Level, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-01.42.50:038][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-01.42.50:038][699]MapCheck: New page: Map Check
+[2023.04.24-01.42.50:038][699]LightingResults: New page: Lighting Build
+[2023.04.24-01.42.50:054][699]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.24-01.42.50:063][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.04.24-01.42.50:063][699]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2023.04.24-01.42.50:128][699]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.24-01.42.50:128][699]LogAIModule: Creating AISystem for world Level1
+[2023.04.24-01.42.50:147][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.04.24-01.42.50:157][699]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.24-01.42.50:157][699]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.133ms to complete.
+[2023.04.24-01.42.50:157][699]LogFileHelpers: Loading map 'Level1' took 0.163
+[2023.04.24-01.47.45:553][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="../../../../../Github/Unreal/Runner/Runner/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.24-01.47.45:570][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.04.24-01.47.45:592][588]LogSavePackage: Moving '../../../../../Github/Unreal/Runner/Runner/Saved/Level1C1392F1243DB325A609D919C85B6D031.tmp' to '../../../../../Github/Unreal/Runner/Runner/Content/Levels/Level1.umap'
+[2023.04.24-01.47.45:605][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="../../../../../Github/Unreal/Runner/Runner/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2023.04.24-01.47.45:646][588]LogSavePackage: Moving '../../../../../Github/Unreal/Runner/Runner/Saved/Level1_BuiltDataE49C997B4A87E7CF865741A9F7493C3B.tmp' to '../../../../../Github/Unreal/Runner/Runner/Content/Levels/Level1_BuiltData.uasset'
+[2023.04.24-01.47.45:657][588]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.24-01.47.45:657][588]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2023.04.24-01.47.45:657][588]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
