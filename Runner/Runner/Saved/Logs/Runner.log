@@ -1040,3 +1040,47 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.04.24-00.35.47:888][942]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
 [2023.04.24-00.35.48:618][942]LogSlate: Took 0.000776 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2023.04.24-00.35.52:280][161]LogSlate: Window 'OptionsMenu_Widget' being destroyed
+[2023.04.24-00.37.08:413][ 71]LogSlate: Window 'Color Picker' being destroyed
+[2023.04.24-00.39.59:169][281]LogSlate: Window 'Color Picker' being destroyed
+[2023.04.24-00.40.08:132][818]LogSlate: Window 'Color Picker' being destroyed
+[2023.04.24-00.44.49:948][303]LogSlate: Window 'Color Picker' being destroyed
+[2023.04.24-00.47.32:148][998]LogSlate: Took 0.002681 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.04.24-00.48.52:736][826]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.24-00.49.33:053][235]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2023.04.24-00.49.33:054][235]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Main_Menu_Level' took 0.045
+[2023.04.24-00.49.33:054][235]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Main_Menu/OptionsMenu_Widget] ([2] browsable assets)...
+[2023.04.24-00.49.33:054][235]OBJ SavePackage: Finished generating thumbnails for package [/Game/Main_Menu/OptionsMenu_Widget]
+[2023.04.24-00.49.33:062][235]LogSavePackage: Moving '../../../../../Github/Unreal/Runner/Runner/Saved/OptionsMenu_Widget_Auto19D9DC865445E864BB6D18CBE8AADF84B.tmp' to '../../../../../Github/Unreal/Runner/Runner/Saved/Autosaves/Game/Main_Menu/OptionsMenu_Widget_Auto1.uasset'
+[2023.04.24-00.49.33:063][235]LogFileHelpers: Auto-saving content packages took 0.009
+[2023.04.24-00.52.05:156][353]BlueprintLog: New page: Compile OptionsMenu_Widget
+[2023.04.24-00.52.05:179][353]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2023.04.24-00.52.05:802][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_Menu/OptionsMenu_Widget" FILE="../../../../../Github/Unreal/Runner/Runner/Content/Main_Menu/OptionsMenu_Widget.uasset" SILENT=true
+[2023.04.24-00.52.05:813][389]LogSavePackage: Moving '../../../../../Github/Unreal/Runner/Runner/Saved/OptionsMenu_Widget75D40AFD477C55E44F137FA7D44D5D28.tmp' to '../../../../../Github/Unreal/Runner/Runner/Content/Main_Menu/OptionsMenu_Widget.uasset'
+[2023.04.24-00.52.05:828][389]AssetCheck: New page: Asset Save: OptionsMenu_Widget
+[2023.04.24-00.52.05:828][389]LogContentValidation: Display: Validating WidgetBlueprint /Game/Main_Menu/OptionsMenu_Widget.OptionsMenu_Widget
+[2023.04.24-00.52.20:502][268]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2023.04.24-00.52.47:025][788]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Main_Menu/Main_Menu_Widget.Main_Menu_Widget
+[2023.04.24-00.53.47:015][358]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.04.24-00.53.47:032][358]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.24-00.53.55:135][845]BlueprintLog: New page: Compile Main_Menu_Widget
+[2023.04.24-00.53.55:164][845]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2023.04.24-00.54.01:726][238]LogTemp: Repeating last play command: Standalone Game
+[2023.04.24-00.54.01:754][238]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2023.04.24-00.54.03:425][238]LogSlate: Window 'Save Content' being destroyed
+[2023.04.24-00.54.03:443][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_Menu/Main_Menu_Widget" FILE="../../../../../Github/Unreal/Runner/Runner/Content/Main_Menu/Main_Menu_Widget.uasset" SILENT=true
+[2023.04.24-00.54.03:452][238]LogSavePackage: Moving '../../../../../Github/Unreal/Runner/Runner/Saved/Main_Menu_Widget887C7FAA4E292E71B94CA2BB7058987D.tmp' to '../../../../../Github/Unreal/Runner/Runner/Content/Main_Menu/Main_Menu_Widget.uasset'
+[2023.04.24-00.54.03:480][239]AssetCheck: New page: Asset Save: Main_Menu_Widget
+[2023.04.24-00.54.03:480][239]LogContentValidation: Display: Validating WidgetBlueprint /Game/Main_Menu/Main_Menu_Widget.Main_Menu_Widget
+[2023.04.24-00.55.58:109][456]BlueprintLog: New page: Compile Main_Menu_Widget
+[2023.04.24-00.55.58:153][456]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2023.04.24-00.56.00:445][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_Menu/Main_Menu_Widget" FILE="../../../../../Github/Unreal/Runner/Runner/Content/Main_Menu/Main_Menu_Widget.uasset" SILENT=true
+[2023.04.24-00.56.00:454][592]LogSavePackage: Moving '../../../../../Github/Unreal/Runner/Runner/Saved/Main_Menu_Widget20E151E543908392F11BD7AA18AAC34E.tmp' to '../../../../../Github/Unreal/Runner/Runner/Content/Main_Menu/Main_Menu_Widget.uasset'
+[2023.04.24-00.56.00:465][592]AssetCheck: New page: Asset Save: Main_Menu_Widget
+[2023.04.24-00.56.00:465][592]LogContentValidation: Display: Validating WidgetBlueprint /Game/Main_Menu/Main_Menu_Widget.Main_Menu_Widget
+[2023.04.24-00.56.03:372][767]LogTemp: Repeating last play command: Standalone Game
+[2023.04.24-00.56.03:400][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.04.24-00.56.04:412][767]LogSlate: Window 'Save Content' being destroyed
+[2023.04.24-00.56.04:428][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_Menu/OptionsMenu_Widget" FILE="../../../../../Github/Unreal/Runner/Runner/Content/Main_Menu/OptionsMenu_Widget.uasset" SILENT=true
+[2023.04.24-00.56.04:439][767]LogSavePackage: Moving '../../../../../Github/Unreal/Runner/Runner/Saved/OptionsMenu_Widget9AA2323B4D3CDFBF362B0C89D99B451B.tmp' to '../../../../../Github/Unreal/Runner/Runner/Content/Main_Menu/OptionsMenu_Widget.uasset'
+[2023.04.24-00.56.04:467][768]AssetCheck: New page: Asset Save: OptionsMenu_Widget
+[2023.04.24-00.56.04:467][768]LogContentValidation: Display: Validating WidgetBlueprint /Game/Main_Menu/OptionsMenu_Widget.OptionsMenu_Widget
