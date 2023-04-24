@@ -1426,3 +1426,52 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.04.24-02.06.56:529][356]AssetCheck: New page: Asset Save: multiple assets
 [2023.04.24-02.06.56:529][356]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
 [2023.04.24-02.06.56:529][356]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2023.04.24-02.07.48:017][740]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.04.24-02.08.21:292][695]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor18)
+[2023.04.24-02.08.29:127][632]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x313)
+[2023.04.24-02.08.35:409][382]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor19)
+[2023.04.24-02.08.36:079][460]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.04.24-02.08.41:667][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="../../../../../Github/Unreal/Runner/Runner/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.24-02.08.41:679][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.04.24-02.08.41:707][122]LogSavePackage: Moving '../../../../../Github/Unreal/Runner/Runner/Saved/Level1002D791C44E28E0AF3A367A09DBE178F.tmp' to '../../../../../Github/Unreal/Runner/Runner/Content/Levels/Level1.umap'
+[2023.04.24-02.08.41:718][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="../../../../../Github/Unreal/Runner/Runner/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2023.04.24-02.08.41:760][122]LogSavePackage: Moving '../../../../../Github/Unreal/Runner/Runner/Saved/Level1_BuiltData601B668548E655F06F55FBB144C5B4A4.tmp' to '../../../../../Github/Unreal/Runner/Runner/Content/Levels/Level1_BuiltData.uasset'
+[2023.04.24-02.08.41:776][122]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.24-02.08.41:776][122]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2023.04.24-02.08.41:776][122]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2023.04.24-02.08.59:236][ 67]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.04.24-02.08.59:244][ 67]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.04.24-02.08.59:251][ 67]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.04.24-02.09.10:176][378]LogContentBrowser: Attempting asset rename: NewBlueprint -> NextLevel
+[2023.04.24-02.09.10:181][378]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.04.24-02.09.22:563][860]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/NextLevel.NextLevel
+[2023.04.24-02.09.28:706][501]LogRenderer: Reallocating scene render targets to support 964x672 Format 10 NumSamples 1 (Frame:647).
+[2023.04.24-02.09.28:927][527]LogSlate: Window 'NextLevel' being destroyed
+[2023.04.24-02.11.43:764][610]BlueprintLog: New page: Compile NextLevel
+[2023.04.24-02.11.43:793][610]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.04.24-02.11.44:266][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NextLevel" FILE="../../../../../Github/Unreal/Runner/Runner/Content/NextLevel.uasset" SILENT=true
+[2023.04.24-02.11.44:270][664]LogSavePackage: Moving '../../../../../Github/Unreal/Runner/Runner/Saved/NextLevel61CD1E5649E6F88FA1E485B5A43DB19A.tmp' to '../../../../../Github/Unreal/Runner/Runner/Content/NextLevel.uasset'
+[2023.04.24-02.11.44:281][664]AssetCheck: New page: Asset Save: NextLevel
+[2023.04.24-02.11.44:281][664]LogContentValidation: Display: Validating Blueprint /Game/NextLevel.NextLevel
+[2023.04.24-02.11.52:230][617]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-02.11.52:230][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-02.12.39:427][218]LogActorFactory: Actor Factory created SM_DoorFrame
+[2023.04.24-02.12.42:395][564]LogActorFactory: Actor Factory created SM_DoorFrame
+[2023.04.24-02.13.20:725][140]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/NextLevel.NextLevel
+[2023.04.24-02.13.38:180][200]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.04.24-02.13.40:537][481]LogEditorViewport: Clicking on Actor (LMB): NextLevel_C (NextLevel)
+[2023.04.24-02.13.51:278][747]BlueprintLog: New page: Compile NextLevel
+[2023.04.24-02.13.51:316][747]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2023.04.24-02.13.51:832][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NextLevel" FILE="../../../../../Github/Unreal/Runner/Runner/Content/NextLevel.uasset" SILENT=true
+[2023.04.24-02.13.51:837][804]LogSavePackage: Moving '../../../../../Github/Unreal/Runner/Runner/Saved/NextLevel2A36A36A44A67CB2B614C9A469320A1D.tmp' to '../../../../../Github/Unreal/Runner/Runner/Content/NextLevel.uasset'
+[2023.04.24-02.13.51:844][804]AssetCheck: New page: Asset Save: NextLevel
+[2023.04.24-02.13.51:844][804]LogContentValidation: Display: Validating Blueprint /Game/NextLevel.NextLevel
+[2023.04.24-02.13.53:492][999]LogTemp: Repeating last play command: Standalone Game
+[2023.04.24-02.13.53:511][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.04.24-02.13.54:641][999]LogSlate: Window 'Save Content' being destroyed
+[2023.04.24-02.13.54:659][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="../../../../../Github/Unreal/Runner/Runner/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.24-02.13.54:674][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.04.24-02.13.54:695][999]LogSavePackage: Moving '../../../../../Github/Unreal/Runner/Runner/Saved/Level15162EDD44869FF70130B19800C488E76.tmp' to '../../../../../Github/Unreal/Runner/Runner/Content/Levels/Level1.umap'
+[2023.04.24-02.13.54:704][999]LogFileHelpers: Saving map 'Level1' took 0.045
+[2023.04.24-02.13.54:729][  0]AssetCheck: New page: Asset Save: Level1
+[2023.04.24-02.13.54:729][  0]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
