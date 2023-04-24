@@ -1216,3 +1216,213 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.04.24-01.47.45:657][588]AssetCheck: New page: Asset Save: multiple assets
 [2023.04.24-01.47.45:657][588]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
 [2023.04.24-01.47.45:657][588]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2023.04.24-01.53.42:445][596]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="../../../../../Github/Unreal/Runner/Runner/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.24-01.53.42:462][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.04.24-01.53.42:481][596]LogSavePackage: Moving '../../../../../Github/Unreal/Runner/Runner/Saved/Level1FF5EDFF5486FBD93734B71940795C75D.tmp' to '../../../../../Github/Unreal/Runner/Runner/Content/Levels/Level1.umap'
+[2023.04.24-01.53.42:494][596]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="../../../../../Github/Unreal/Runner/Runner/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2023.04.24-01.53.42:530][596]LogSavePackage: Moving '../../../../../Github/Unreal/Runner/Runner/Saved/Level1_BuiltDataE5290D584B58300CFD39AEAFC4F2E914.tmp' to '../../../../../Github/Unreal/Runner/Runner/Content/Levels/Level1_BuiltData.uasset'
+[2023.04.24-01.53.42:541][596]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.24-01.53.42:541][596]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2023.04.24-01.53.42:541][596]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2023.04.24-01.53.48:984][  1]LogSlate: Window 'New Level' being destroyed
+[2023.04.24-01.53.48:996][  1]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.24-01.53.49:011][  1]LightingResults: New page: Lighting Build
+[2023.04.24-01.53.49:011][  1]LoadErrors: New page: Loading map: Template_Default.umap
+[2023.04.24-01.53.49:048][  1]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-01.53.49:049][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-01.53.49:049][  1]MapCheck: New page: Map Check
+[2023.04.24-01.53.49:049][  1]LightingResults: New page: Lighting Build
+[2023.04.24-01.53.49:062][  1]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.24-01.53.49:067][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.04.24-01.53.49:093][  1]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2023.04.24-01.53.49:095][  1]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2023.04.24-01.53.49:096][  1]LogAIModule: Creating AISystem for world Untitled_1
+[2023.04.24-01.53.49:143][  1]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.24-01.53.49:161][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.04.24-01.53.49:172][  1]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.24-01.53.49:172][  1]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.099ms to complete.
+[2023.04.24-01.53.49:172][  1]LogFileHelpers: Loading map 'Template_Default' took 0.177
+[2023.04.24-01.53.53:447][477]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-01.53.53:447][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-01.54.05:499][885]LogSlate: Window 'Save Level As' being destroyed
+[2023.04.24-01.54.05:527][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level2" FILE="../../../../../Github/Unreal/Runner/Runner/Content/Levels/Level2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.24-01.54.05:577][885]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2023.04.24-01.54.05:587][885]LogSavePackage: Moving '../../../../../Github/Unreal/Runner/Runner/Saved/Level20807A7D942D172EA75EE799627852535.tmp' to '../../../../../Github/Unreal/Runner/Runner/Content/Levels/Level2.umap'
+[2023.04.24-01.54.05:597][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level2_BuiltData" FILE="../../../../../Github/Unreal/Runner/Runner/Content/Levels/Level2_BuiltData.uasset" SILENT=true
+[2023.04.24-01.54.05:609][885]LogSavePackage: Moving '../../../../../Github/Unreal/Runner/Runner/Saved/Level2_BuiltDataBBE1200340FB21F45DEE50B9A407FAB3.tmp' to '../../../../../Github/Unreal/Runner/Runner/Content/Levels/Level2_BuiltData.uasset'
+[2023.04.24-01.54.05:617][885]LogFileHelpers: Saving map 'Level2' took 0.107
+[2023.04.24-01.54.05:617][885]Cmd: MAP LOAD FILE="../../../../../Github/Unreal/Runner/Runner/Content/Levels/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.24-01.54.05:629][885]LightingResults: New page: Lighting Build
+[2023.04.24-01.54.05:630][885]LoadErrors: New page: Loading map: Level2.umap
+[2023.04.24-01.54.05:630][885]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-01.54.05:630][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-01.54.05:630][885]MapCheck: New page: Map Check
+[2023.04.24-01.54.05:630][885]LightingResults: New page: Lighting Build
+[2023.04.24-01.54.05:647][885]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.24-01.54.05:665][885]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2023.04.24-01.54.05:670][885]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level2'.
+[2023.04.24-01.54.05:670][885]LogAIModule: Creating AISystem for world Level2
+[2023.04.24-01.54.05:713][885]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.24-01.54.05:725][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.04.24-01.54.05:739][885]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.24-01.54.05:740][885]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.098ms to complete.
+[2023.04.24-01.54.05:740][885]LogFileHelpers: Loading map 'Level2' took 0.123
+[2023.04.24-01.54.05:745][885]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.24-01.54.05:745][885]LogContentValidation: Display: Validating World /Game/Levels/Level2.Level2
+[2023.04.24-01.54.05:745][885]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level2_BuiltData.Level2_BuiltData
+[2023.04.24-01.54.24:972][156]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.04.24-01.54.24:974][156]Cmd: MAP LOAD FILE="../../../../../Github/Unreal/Runner/Runner/Content/Levels/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.24-01.54.24:991][156]LightingResults: New page: Lighting Build
+[2023.04.24-01.54.24:991][156]LoadErrors: New page: Loading map: Level1.umap
+[2023.04.24-01.54.25:019][156]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-01.54.25:019][156]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-01.54.25:019][156]MapCheck: New page: Map Check
+[2023.04.24-01.54.25:019][156]LightingResults: New page: Lighting Build
+[2023.04.24-01.54.25:030][156]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.24-01.54.25:038][156]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.04.24-01.54.25:042][156]LogBlueprint: Error: [AssetLog] C:\Github\Unreal\Runner\Runner\Content\Levels\Level1.umap: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2023.04.24-01.54.25:055][156]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2023.04.24-01.54.25:055][156]LogAIModule: Creating AISystem for world Level1
+[2023.04.24-01.54.25:129][156]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.24-01.54.25:143][156]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.04.24-01.54.25:157][156]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.24-01.54.25:158][156]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.098ms to complete.
+[2023.04.24-01.54.25:158][156]LogFileHelpers: Loading map 'Level1' took 0.184
+[2023.04.24-01.54.25:158][156]LogSlate: Window 'Open Level' being destroyed
+[2023.04.24-01.55.13:692][972]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x300)
+[2023.04.24-01.55.15:046][132]Cmd: EDIT COPY
+[2023.04.24-01.55.15:496][186]Cmd: EDIT PASTE
+[2023.04.24-01.55.31:151][ 59]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x302)
+[2023.04.24-01.55.31:555][107]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.04.24-01.55.32:348][201]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.04.24-01.55.33:034][283]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x302)
+[2023.04.24-01.55.38:278][909]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.04.24-01.55.40:150][132]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x302)
+[2023.04.24-01.55.42:897][459]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.04.24-01.55.50:940][421]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2023.04.24-01.55.52:122][561]Cmd: EDIT COPY
+[2023.04.24-01.55.52:390][593]Cmd: EDIT PASTE
+[2023.04.24-01.56.26:421][666]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.04.24-01.56.27:158][753]LogTemp: Repeating last play command: Standalone Game
+[2023.04.24-01.56.27:176][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.04.24-01.56.28:588][753]LogSlate: Window 'Save Content' being destroyed
+[2023.04.24-01.56.28:602][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="../../../../../Github/Unreal/Runner/Runner/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.24-01.56.28:615][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.04.24-01.56.28:630][753]LogSavePackage: Moving '../../../../../Github/Unreal/Runner/Runner/Saved/Level148E58EBB4A5994D8FAA28EAE9CF279CB.tmp' to '../../../../../Github/Unreal/Runner/Runner/Content/Levels/Level1.umap'
+[2023.04.24-01.56.28:640][753]LogFileHelpers: Saving map 'Level1' took 0.038
+[2023.04.24-01.56.28:666][754]AssetCheck: New page: Asset Save: Level1
+[2023.04.24-01.56.28:666][754]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2023.04.24-01.57.00:989][792]LogTemp: Repeating last play command: Standalone Game
+[2023.04.24-01.57.01:006][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.04.24-01.57.44:318][655]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.04.24-01.57.46:091][867]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x300)
+[2023.04.24-01.58.08:488][528]Cmd: EDIT COPY
+[2023.04.24-01.58.08:858][572]Cmd: EDIT PASTE
+[2023.04.24-01.58.27:337][778]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.04.24-01.58.30:966][211]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor5)
+[2023.04.24-01.58.32:044][338]Cmd: EDIT COPY
+[2023.04.24-01.58.32:428][384]Cmd: EDIT PASTE
+[2023.04.24-01.58.34:992][688]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.04.24-01.58.35:615][761]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor6)
+[2023.04.24-01.58.35:930][797]Cmd: EDIT PASTE
+[2023.04.24-01.58.39:245][192]Cmd: EDIT COPY
+[2023.04.24-01.58.39:438][215]Cmd: EDIT PASTE
+[2023.04.24-01.58.43:735][727]Cmd: EDIT PASTE
+[2023.04.24-01.58.48:742][324]LogTemp: Repeating last play command: Standalone Game
+[2023.04.24-01.58.48:759][324]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.04.24-01.58.49:976][324]LogSlate: Window 'Save Content' being destroyed
+[2023.04.24-01.58.49:993][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="../../../../../Github/Unreal/Runner/Runner/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.24-01.58.50:005][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.04.24-01.58.50:024][324]LogSavePackage: Moving '../../../../../Github/Unreal/Runner/Runner/Saved/Level153F70A35411C7E1412A0BEAE17430304.tmp' to '../../../../../Github/Unreal/Runner/Runner/Content/Levels/Level1.umap'
+[2023.04.24-01.58.50:034][324]LogFileHelpers: Saving map 'Level1' took 0.041
+[2023.04.24-01.58.50:061][325]AssetCheck: New page: Asset Save: Level1
+[2023.04.24-01.58.50:061][325]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2023.04.24-01.59.39:529][791]LogTemp: Repeating last play command: Standalone Game
+[2023.04.24-01.59.39:548][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.04.24-01.59.52:917][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.04.24-01.59.52:937][ 53]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Main_Menu_Level.Main_Menu_Level
+[2023.04.24-01.59.52:937][ 53]Cmd: MAP LOAD FILE="../../../../../Github/Unreal/Runner/Runner/Content/Levels/Main_Menu_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.24-01.59.52:937][ 53]LightingResults: New page: Lighting Build
+[2023.04.24-01.59.52:937][ 53]LoadErrors: New page: Loading map: Main_Menu_Level.umap
+[2023.04.24-01.59.52:979][ 53]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-01.59.52:979][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-01.59.52:979][ 53]MapCheck: New page: Map Check
+[2023.04.24-01.59.52:979][ 53]LightingResults: New page: Lighting Build
+[2023.04.24-01.59.52:992][ 53]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.24-01.59.52:995][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.04.24-01.59.52:996][ 53]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main_Menu_Level'.
+[2023.04.24-01.59.53:010][ 53]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.24-01.59.53:010][ 53]LogAIModule: Creating AISystem for world Main_Menu_Level
+[2023.04.24-01.59.53:024][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.04.24-01.59.53:032][ 53]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.24-01.59.53:032][ 53]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.089ms to complete.
+[2023.04.24-01.59.53:032][ 53]LogFileHelpers: Loading map 'Main_Menu_Level' took 0.095
+[2023.04.24-01.59.54:339][207]LogTemp: Repeating last play command: Standalone Game
+[2023.04.24-01.59.54:356][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.04.24-02.01.40:863][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.04.24-02.01.40:881][947]LogBlueprint: Error: [AssetLog] C:\Github\Unreal\Runner\Runner\Content\Levels\Level1.umap: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2023.04.24-02.01.40:915][947]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level1.Level1
+[2023.04.24-02.01.40:915][947]Cmd: MAP LOAD FILE="../../../../../Github/Unreal/Runner/Runner/Content/Levels/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.24-02.01.40:915][947]LightingResults: New page: Lighting Build
+[2023.04.24-02.01.40:915][947]LoadErrors: New page: Loading map: Level1.umap
+[2023.04.24-02.01.40:916][947]LogWorld: UWorld::CleanupWorld for Main_Menu_Level, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-02.01.40:916][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-02.01.40:916][947]MapCheck: New page: Map Check
+[2023.04.24-02.01.40:916][947]LightingResults: New page: Lighting Build
+[2023.04.24-02.01.40:929][947]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.24-02.01.40:931][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.04.24-02.01.40:931][947]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2023.04.24-02.01.40:993][947]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.24-02.01.40:993][947]LogAIModule: Creating AISystem for world Level1
+[2023.04.24-02.01.41:009][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.04.24-02.01.41:018][947]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.24-02.01.41:018][947]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.149ms to complete.
+[2023.04.24-02.01.41:019][947]LogFileHelpers: Loading map 'Level1' took 0.104
+[2023.04.24-02.01.51:088][147]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x305)
+[2023.04.24-02.01.52:100][266]Cmd: EDIT COPY
+[2023.04.24-02.01.52:668][334]Cmd: EDIT PASTE
+[2023.04.24-02.01.57:478][907]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.04.24-02.02.00:672][288]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.04.24-02.02.01:061][334]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x306)
+[2023.04.24-02.02.11:554][587]LogTemp: Repeating last play command: Standalone Game
+[2023.04.24-02.02.11:570][587]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.04.24-02.02.12:650][587]LogSlate: Window 'Save Content' being destroyed
+[2023.04.24-02.02.12:669][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="../../../../../Github/Unreal/Runner/Runner/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.24-02.02.12:680][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.04.24-02.02.12:700][587]LogSavePackage: Moving '../../../../../Github/Unreal/Runner/Runner/Saved/Level15E85E4AC4A626B771BD2EDAE68F9DEE2.tmp' to '../../../../../Github/Unreal/Runner/Runner/Content/Levels/Level1.umap'
+[2023.04.24-02.02.12:714][587]LogFileHelpers: Saving map 'Level1' took 0.045
+[2023.04.24-02.02.12:744][588]AssetCheck: New page: Asset Save: Level1
+[2023.04.24-02.02.12:744][588]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2023.04.24-02.03.04:939][  2]LogTemp: Repeating last play command: Standalone Game
+[2023.04.24-02.03.04:960][  2]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.04.24-02.03.41:741][795]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor9)
+[2023.04.24-02.03.43:837][ 43]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.04.24-02.03.53:993][256]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x300)
+[2023.04.24-02.03.58:875][839]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.04.24-02.04.00:710][ 57]Cmd: EDIT COPY
+[2023.04.24-02.04.02:029][215]Cmd: EDIT PASTE
+[2023.04.24-02.04.07:604][880]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.04.24-02.04.11:729][371]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor9)
+[2023.04.24-02.05.19:283][391]Cmd: EDIT COPY
+[2023.04.24-02.05.19:770][449]Cmd: EDIT PASTE
+[2023.04.24-02.05.50:045][ 35]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.04.24-02.05.53:838][487]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor10)
+[2023.04.24-02.05.54:910][613]Cmd: EDIT COPY
+[2023.04.24-02.05.55:245][652]Cmd: EDIT PASTE
+[2023.04.24-02.06.05:567][883]LogTemp: Repeating last play command: Standalone Game
+[2023.04.24-02.06.05:586][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.04.24-02.06.06:842][883]LogSlate: Window 'Save Content' being destroyed
+[2023.04.24-02.06.06:864][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="../../../../../Github/Unreal/Runner/Runner/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.24-02.06.06:876][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.04.24-02.06.06:899][883]LogSavePackage: Moving '../../../../../Github/Unreal/Runner/Runner/Saved/Level19AD3961D4B3AD53E0223CA8849FD04CE.tmp' to '../../../../../Github/Unreal/Runner/Runner/Content/Levels/Level1.umap'
+[2023.04.24-02.06.06:911][883]LogFileHelpers: Saving map 'Level1' took 0.047
+[2023.04.24-02.06.06:939][884]AssetCheck: New page: Asset Save: Level1
+[2023.04.24-02.06.06:939][884]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2023.04.24-02.06.56:377][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="../../../../../Github/Unreal/Runner/Runner/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.24-02.06.56:391][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.04.24-02.06.56:417][356]LogSavePackage: Moving '../../../../../Github/Unreal/Runner/Runner/Saved/Level1E28019F64D2BEA6C5E9BFEB7E4EDEB52.tmp' to '../../../../../Github/Unreal/Runner/Runner/Content/Levels/Level1.umap'
+[2023.04.24-02.06.56:427][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="../../../../../Github/Unreal/Runner/Runner/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2023.04.24-02.06.56:517][356]LogSavePackage: Moving '../../../../../Github/Unreal/Runner/Runner/Saved/Level1_BuiltData71B3164F41EC35B76034E3B5C59FEC62.tmp' to '../../../../../Github/Unreal/Runner/Runner/Content/Levels/Level1_BuiltData.uasset'
+[2023.04.24-02.06.56:529][356]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.24-02.06.56:529][356]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2023.04.24-02.06.56:529][356]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
